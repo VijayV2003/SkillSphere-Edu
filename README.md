@@ -16,6 +16,7 @@ Here's a breakdown of the technologies likely used:
 
 Since it's a static frontend site, there is no JavaScript or a backend framework involved.
 
-![image](https://github.com/user-attachments/assets/2b63ece9-3fcc-4e98-abf0-c57bce31b30e)
-![image](https://github.com/user-attachments/assets/244a81c6-a7fa-4158-94ea-5366bfca581a)
+![Screenshot 2025-03-02 201258](https://github.com/user-attachments/assets/f6356f17-513b-45d9-ab34-7d283335a757)
+
+![Screenshot 2025-03-02 201232](https://github.com/user-attachments/assets/3ef75da7-5704-445d-9ac3-ad714ab96ec0)
 
